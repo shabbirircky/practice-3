@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.container {
+  
+    margin: 22px 87px;
+    
+}
+/* Section-1 start */
+
+
+
+.section-1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.left-sec{
+    flex-basis: 50%;
+}
+.a-col{
+    color: red;
+}
+.a-h1{
+    font-size: 40px;
+}
+
+.a-p{
+    font-size: 14px;
+    line-height: 25px;
+
+}
+.write-sec{
+    flex-basis: 50%;
+}
+
+.write-sec img {
+    width: 80%;
+    margin-left: 105px;
+    
+}
+
+.btn-a{
+
+        background: red;
+        color: white;
+        text-decoration: none;
+        padding: 11px 17px;
+        margin-top: 27px;
+        display: inline-block;
+    
+}
+
+
+/* Section-1 END */
+
+/* section 2 srart */
+.scetion-2 {
+    
+    padding-top: 100px;
+}
+.b-p{
+    text-align: center;
+    font-size: 30px;
+}
+.sce-a1{
+    flex-basis: 30%;
+    background-color: beige;
+    padding: 21px 1%;
+}
+.sce-a1 a{
+    color: red;
+    text-decoration: none;
+
+}
+i.fa-solid.fa-rocket {
+    font-size: 34px;
+}
+.fa-brands.fa-space-awesome{
+    font-size: 34px;
+}
+.fa-solid.fa-user-astronaut{
+    font-size: 34px;
+}
+.sec-2a {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 35px;
+  
+}
+
+
+/* section 2 END */
+/* Section-3 :start */
+
+
+
+.section-3 {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 100px;
+}
+.b-h1{
+    font-size: 30px;
+
+}
+.left-sec img {
+    margin-left: 9px;
+    width: 80%;
+}
+
+
+
+/* Section-3 END */
+/* Section-4 start */
+.section-4 {
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.write-sec4 {
+    flex-basis: 50%;
+}
+.write-sec4 img {
+    padding-left: 33%;
+    width: 100%;
+}
+/* Section-4 end */
+
+/* section-5 staRT */
+.section-5 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.left-sec5{
+    flex-basis: 50%;
+}
+.left-sec5 img{
+    padding-left: 50px;
+}
+
+
+/* section-5 end */
+/* last */
+.last{
+    flex-basis: 100%;
+    height: 150px;
+    background: black;
+    text-align: center;
+}
+.last h1{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    
+
+}
+.img-c{
+    width: 20px;
+}
+.s-p{
+    color: white;
+}
+
+.L-h1{
+    font-size: 30px;
+}

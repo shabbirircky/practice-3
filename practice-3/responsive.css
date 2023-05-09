@@ -1,0 +1,148 @@
+  /* --------laptop--------- */
+/* 
+@media(max-width: 922px){  */
+   
+
+
+}
+
+
+/* -----------Tablet---------- */
+
+/* @media(max-width:768px){
+    .container {
+        margin: 22px 38px;
+    }
+    /* scertion-1 */
+    /* .a-h1 {
+        font-size: 31px;
+    } */
+    /* .write-sec img {
+        margin-left: 74px;
+    } */
+    /* section-3 */
+    /* .left-sec img {
+        margin-left: 9px;
+        width: 90%;
+    } */
+    /* section-5 */
+    /* .left-sec5 img {
+        padding-left: 9px;
+        width: 61%;
+    } */
+
+   
+} */
+    
+   
+
+
+/* -----------mobile------------- */
+/* 
+@media(max-width:576px){
+    .container {
+        margin: 18px 35px;
+    } */
+    /* .section-1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    } */
+    /* .left-sec {
+        flex-basis: 100%;
+    } */
+    
+    /* .a-h1 {
+        font-size: 24px;
+    } */
+    /* .write-sec {
+        flex-basis: 100%;
+         */
+    }
+    /* .write-sec img {
+        
+            width: 100%;
+            margin: auto;
+          
+        
+    } */
+
+/* 
+    .b-p {
+        text-align: center;
+        font-size: 19px;
+    } */
+     
+    /* section-2 */
+    /* .sec-2a {
+        display: block;
+       
+    } */
+    /* .sce-a1 {
+        flex-basis: 100%;
+        
+        padding: 21px 8%;
+        margin-bottom: 25px;
+    } */
+    /* aection-3 */
+    /* .section-3 {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        padding-top: 50px;
+        justify-content: center;
+    } */
+    /* .write-sec {
+        flex-basis: 100%;
+    } */
+    /* .left-sec {
+        flex-basis: 100%;
+        padding-bottom: 20px;
+    } */
+    /* .left-sec img {
+        width: 100%;
+        margin: 0;
+    } */
+
+
+
+    /* scetion-4 */
+    /* .write-sec4 img {
+        margin-left: 0;
+        padding: 0;
+        width: 87%;
+    } */
+    /* .write-sec4 {
+        flex-basis: 100%;
+    } */
+
+    /* scetion-5 */
+    /* .left-sec5 {
+        flex-basis: 90%;
+    } */
+    /* .left-sec5 img {
+        width: 50%;
+        margin-left: 88px;
+        padding-bottom: 35px;
+    } */
+
+
+    /* .L-h1{
+        font-size: 13px;
+    } */
+    /* .s-p {
+        color: white;
+        font-size: 9px;
+        word-spacing: 4px;
+    } */
+    /* .img-c{
+        width: 10px;
+    } */
+
+}
+
+
+
+
+
+
